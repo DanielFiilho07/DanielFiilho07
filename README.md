@@ -17,8 +17,11 @@
 
 
 ### ⚡ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFiilho07&show_icons=true&theme=vision-friendly-dark)
-<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielFiilho07&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielFiilho07&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielFiilho07&layout=compact&langs_count=8&theme=outrun"/>
+</p>
 
 ## Contact
 <div align="center">
