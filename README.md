@@ -18,8 +18,8 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielFiilho07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielFiilho07&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielFiilho07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielFiilho07&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 
 ## Contact
